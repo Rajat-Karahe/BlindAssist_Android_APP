@@ -1,15 +1,16 @@
 # BlindAssist_Android_APP
 
 
-![Home](/Images/home.png)
+![Home](/Images/home.jpg)
 
 --------------------------------------------
 
-![Upload](/Images/upload
+![Upload](/Images/upload.jpg)
+
 
 --------------------------------------------
 
-![Result](/Images/result
+![Result](/Images/result.jpg)
 
 --------------------------------------------
 
