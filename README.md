@@ -1,7 +1,7 @@
 # BlindAssist_Android_APP
---
 
-Features :- Output display on screen + Audio output(English US)
+--------------------------------
+Features :- Output display on screen + Audio output(American English)
 ---------------------------------
 
 ![Home](/Images/home.jpg) | ![Upload](/Images/upload.jpg) | ![Result](/Images/result.jpg)
