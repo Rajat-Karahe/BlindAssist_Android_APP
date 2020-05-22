@@ -1,18 +1,9 @@
 # BlindAssist_Android_APP
+---------------------------------
 
+![Home](/Images/home.jpg) | ![Upload](/Images/upload.jpg) | ![Result](/Images/result.jpg)
 
-![Home](/Images/home.jpg)
-
---------------------------------------------
-
-![Upload](/Images/upload.jpg)
-
-
---------------------------------------------
-
-![Result](/Images/result.jpg)
-
---------------------------------------------
+----------------------------------
 
 Currency Denomination Identifier
 --
